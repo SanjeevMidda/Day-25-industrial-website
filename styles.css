@@ -1,0 +1,29 @@
+body {
+    /* background: linear-gradient(blue, orange) fixed; */
+    background:white
+}
+
+h1, p {
+    font-family: Helvetica, sans-serif;
+    /* color: white; */
+    color: black;
+    font-size: 40px;
+    text-align: left;
+    margin-top: 60px;
+    text-transform: uppercase;
+}
+
+header {
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    width:50%;
+}
+
+header p {
+    margin-top: 10px;
+    text-align: left;
+}
+
+span {
+    color:orangered;
+}
